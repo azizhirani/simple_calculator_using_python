@@ -1,4 +1,4 @@
-# calculator
+# Simple calculator using python -Tkinter
 SIMPLE CALCULATOR
 
 An overview of the calculator is given below :
