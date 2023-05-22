@@ -1,6 +1,4 @@
 # Simple calculator using python -Tkinter
-
-Simple Calculator using Python and Tkinter
 ============================================
 
 This repository contains a simple calculator application built using Python and the Tkinter library. The calculator provides basic arithmetic functionality, allowing users to perform addition, subtraction, multiplication, and division operations.
